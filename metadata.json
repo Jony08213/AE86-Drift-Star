@@ -1,0 +1,6 @@
+{
+  "name": "Drift Racer",
+  "description": "An immersive top-down car racing and drifting game featuring realistic drift physics, AI opponents, procedural Web Audio engine sounds, vehicle upgrades, and lap timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
